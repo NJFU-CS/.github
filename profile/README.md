@@ -4,7 +4,7 @@
  
  <h1 align="center"> 南京林业大学计算机协会 </h1>
  <p align="center">
-  <a href="">成立于2015年</a> 
+  <a href="">成立于2016年</a> 
 </p>
  <p align="center"> NJFU Computer Science Association </p>
 
