@@ -1,13 +1,17 @@
-## 南京林业大学计算机协会 (NJFU Computer Science Association)
+<p align="center">
+  <img style="width: 300px;margin-left:30px" src="https://dvkunion.oss-cn-shanghai.aliyuncs.com/img/njfu.png"/> 
+ </p>
+ 
+ <h1 align="center"> 南京林业大学计算机协会 </h1>
+ <p align="center">
+  <a href="">成立于2015年</a> 
+</p>
+ <p align="center"> NJFU Computer Science Association </p>
 
-Wiki: https://njfu-cs.github.io/NJFU-WIKI/#/
-<!--
+🌈 欢迎来到 南京林业大学 计算机协会 Github 分会～.   
 
-**Here are some ideas to get you started:**
+🙋‍♀️ 加入开发，请申请加入NJFU-CS组织，并等待现任会长通过申请。    
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+👩‍💻 计协Wiki: https://njfu-cs.github.io/NJFU-WIKI/#/.   
+
+🧙 愿你能在这里有一个精彩而愉快的四年. 
