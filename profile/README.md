@@ -1,5 +1,6 @@
 ## 南京林业大学计算机协会 (NJFU Computer Science Association)
 
+Wiki: https://njfu-cs.github.io/NJFU-WIKI/#/
 <!--
 
 **Here are some ideas to get you started:**
